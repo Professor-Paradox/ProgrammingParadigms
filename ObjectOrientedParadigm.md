@@ -1,0 +1,5 @@
+inheritance
+polymorphism
+abstraction
+encapsulation
+
